@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Iphone 13 (Rosado)",
+      "price": 990,
+      "img": "https://tiendaempresas.entel.cl/media/catalog/product/cache/e83b319fe15d087a014efa16f11c0f36/i/p/iphone_13_rosado_128_gb_1_.jpg",
+      "stock": 4,
+      "quanty": 1,
+      "category": "iphone"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 16 Pro Max",
+      "price": 1499,
+      "img": "https://media.falabella.com/falabellaCL/17273480_1/w=1500,h=1500,fit=pad",
+      "stock": 10,
+      "quanty": 1,
+      "category": "iphone"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 15",
+      "price": 1200,
+      "img": "https://http2.mlstatic.com/D_Q_NP_874467-MLU75327256667_032024-O.webp",
+      "stock": 10,
+      "quanty": 1,
+      "category": "iphone"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S24 Ultra 5G",
+      "price": 1799,
+      "img": "https://media.falabella.com/falabellaCL/17007783_10/w=1500,h=1500,fit=pad",
+      "stock": 55,
+      "quanty": 1,
+      "category": "samsung"
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Z Flip6",
+      "price": 699,
+      "img": "https://http2.mlstatic.com/D_Q_NP_802475-MLU77627701871_072024-O.webp",
+      "stock": 15,
+      "quanty": 1,
+      "category": "samsung"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy A53 5G",
+      "price": 499,
+      "img": "https://tiendadiggit.com.ar/web/image/product.template/10469/image_1024?unique=b4b20ce",
+      "stock": 25,
+      "quanty": 1,
+      "category": "samsung"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy A55 5G",
+      "price": 599,
+      "img": "https://home.ripley.cl/store/Attachment/WOP/D191/2000400542153/2000400542153-1.jpg",
+      "stock": 30,
+      "quanty": 1,
+      "category": "samsung"
+    },
+    {
+      "id": 8,
+      "name": "Xiaomi 14T Pro",
+      "price": 700,
+      "img": "https://media.falabella.com/falabellaCL/17373517_1/w=800,h=800,fit=pad",
+      "stock": 35,
+      "quanty": 1,
+      "category": "xiaomi"
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi Redmi Note 14 Pro+ 5G",
+      "price": 899,
+      "img": "https://media.falabella.com/falabellaCL/17364274_1/w=800,h=800,fit=pad",
+      "stock": 55,
+      "quanty": 1,
+      "category": "xiaomi"
+    },
+    {
+      "id": 10,
+      "name": "Galaxy S25 Ultra",
+      "price": 1899,
+      "img": "https://images.samsung.com/cl/smartphones/galaxy-s25-ultra/buy/product_color_silverBlue_MO.png?imbypass=true",
+      "stock": 60,
+      "quanty": 1,
+      "category": "samsung"
+    }
+  ]

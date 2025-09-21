@@ -1,0 +1,21 @@
+.form-control {
+    display: flex;
+    margin-left: 15px;
+    padding: 5px 25px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.btn-submit {
+    margin-left: 15px;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn-submit:hover {
+    background-color: green;
+}
