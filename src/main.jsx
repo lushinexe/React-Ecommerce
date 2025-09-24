@@ -20,19 +20,19 @@ const router = createBrowserRouter([
     element: <CartContent />
   },
   {
-    path: '/SamsungPage',
+    path: '/samsungPage',
     element: <SamsungPage />
   },
   {
-    path: '/IphonePage',
+    path: '/iphonePage',
     element: <IphonePage />
   },
   {
-    path: '/XiaomiPage',
+    path: '/xiaomiPage',
     element: <XiaomiPage />
   },
   {
-    path: '/Checkout',
+    path: '/checkout',
     element: <Checkout />
   }
 ])

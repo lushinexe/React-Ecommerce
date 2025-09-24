@@ -10,9 +10,9 @@ const NavBar = () => {
         </Link>
         <ul className="nav-links">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/SamsungPage">Samsung</Link></li>
-          <li><Link to="/IphonePage">Iphone</Link></li>
-          <li><Link to="/XiaomiPage">Xiaomi</Link></li>
+          <li><Link to="/samsungPage">Samsung</Link></li>
+          <li><Link to="/iphonePage">Iphone</Link></li>
+          <li><Link to="/xiaomiPage">Xiaomi</Link></li>
         </ul>
         <Link to='/cart'>
           <h2 className="navbar-cart">🛒</h2>
