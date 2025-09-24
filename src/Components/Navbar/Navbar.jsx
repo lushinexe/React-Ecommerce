@@ -5,16 +5,18 @@ const NavBar = () => {
   return (
     <div className="nav-container">
       <nav className="navbar">
-        <Link to='/'>
+        <Link to="/">
           <h1 className="navbar-logo">AstroTech</h1>
         </Link>
+
         <ul className="nav-links">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/samsungPage">Samsung</Link></li>
-          <li><Link to="/iphonePage">Iphone</Link></li>
-          <li><Link to="/xiaomiPage">Xiaomi</Link></li>
+          <li><Link to="/category/samsung">Samsung</Link></li>
+          <li><Link to="/category/iphone">iPhone</Link></li>
+          <li><Link to="/category/xiaomi">Xiaomi</Link></li>
         </ul>
-        <Link to='/cart'>
+
+        <Link to="/cart">
           <h2 className="navbar-cart">🛒</h2>
         </Link>
       </nav>
