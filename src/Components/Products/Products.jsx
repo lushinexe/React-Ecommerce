@@ -1,6 +1,6 @@
 import { useContext, useState, useEffect } from "react"
 import { Context } from "../../Context/Context.jsx"
-import "./products.css"
+import "./Products.css"
 import { collection, getDocs, query, where } from "firebase/firestore"
 import { db } from "../firebase/firebase.js"
 

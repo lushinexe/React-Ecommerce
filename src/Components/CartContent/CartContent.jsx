@@ -1,7 +1,6 @@
 import {useContext } from "react"
 import { Context } from "../../Context/Context"
-
-import NavBar from "../NavBar/NavBar"
+import NavBar from "../Navbar/Navbar"
 import CartElements from "./CartElements"
 import CartTotal from "./CartTotal"
 
