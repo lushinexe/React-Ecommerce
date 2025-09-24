@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { HashRouter } from 'react-router-dom'
 import CartContent from './Components/CartContent/CartContent.jsx'
 import App from './App.jsx'
 import ContextProvider from './Context/Context.jsx'
@@ -41,7 +42,9 @@ const router = createBrowserRouter([
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <ContextProvider>
-      <RouterProvider router={router} />
+      <HashRouter>
+        <RouterProvider router={router} />
+      </HashRouter>
     </ContextProvider>
   </StrictMode>
 )
